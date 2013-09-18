@@ -2,8 +2,8 @@
 //  ViewController.m
 //  blesample
 //
-//  Created by 田平 章人 on 13/09/18.
-//  Copyright (c) 2013年 mythosil. All rights reserved.
+//  Created by Akito Tabira on 13/09/18.
+//  Copyright (c) 2013 mythosil. All rights reserved.
 //
 
 #import "ViewController.h"
