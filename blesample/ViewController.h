@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreBluetooth/CoreBluetooth.h>
 
 @interface ViewController : UIViewController
-
+<CBCentralManagerDelegate, CBPeripheralDelegate>
+@property (nonatomic, weak) IBOutlet UITextView *debugView;
 @end
